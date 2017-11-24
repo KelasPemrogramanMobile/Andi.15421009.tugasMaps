@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 10\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Android_Studio\Prj7\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_530d8e975fbc57790e5f041254305f99f9ecbeb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 10\.android\build-cache\f68959288e6faca338e2ad3e07899a9c60401bee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba8b17f4d98f070709474217bff78f6aa11391d8">
+        <dex dex="D:\Android_Studio\Prj7\app\build\intermediates\pre-dexed\debug\classes_ccf332a2134ae2c9b70167e995efb8e6db825ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 10\.android\build-cache\a63db35e1096053aa1e2ffaae2b6b67aa62f98f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b325ed66dffa4ffd6e733cb452986bb3159d756">
+        <dex dex="D:\Android_Studio\Prj7\app\build\intermediates\pre-dexed\debug\classes_b874d81d6e860f2862b6ddfccb20be509126b050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 10\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Android_Studio\Prj7\app\build\intermediates\pre-dexed\debug\gson-2.7_55e11cb7eb02642f56f1b11fee2173e01819e993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 10\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\Android_Studio\Prj7\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2_2ad488b072caf680a4e3c57158f2d96df5f10658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 10\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Android_Studio\Prj7\app\build\intermediates\pre-dexed\debug\okio-1.9.0_1d25516db28b19bc5d6f4f80f26436c4d3a73cdc.jar" />
+    </item>
+
+</items>

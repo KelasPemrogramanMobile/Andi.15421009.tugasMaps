@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\xml\\style.xml",
+        "source": "D:\\Android_Studio\\Prj7\\app\\src\\main\\res\\xml\\style.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\xml\\dimens.xml",
+        "source": "D:\\Android_Studio\\Prj7\\app\\src\\main\\res\\xml\\dimens.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\xml\\string.xml",
+        "source": "D:\\Android_Studio\\Prj7\\app\\src\\main\\res\\xml\\string.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\xml\\color.xml",
+        "source": "D:\\Android_Studio\\Prj7\\app\\src\\main\\res\\xml\\color.xml"
+    }
+]

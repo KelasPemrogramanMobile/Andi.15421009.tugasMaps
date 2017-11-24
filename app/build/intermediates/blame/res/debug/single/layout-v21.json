@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Windows 10\\.android\\build-cache\\20836759609bfe68d8c6e25bbf1684c69d3e88c6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Windows 10\\.android\\build-cache\\20836759609bfe68d8c6e25bbf1684c69d3e88c6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Windows 10\\.android\\build-cache\\20836759609bfe68d8c6e25bbf1684c69d3e88c6\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\Prj7\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Windows 10\\.android\\build-cache\\20836759609bfe68d8c6e25bbf1684c69d3e88c6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
